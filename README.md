@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Subscribo/psr-http-message-tools.svg)](https://travis-ci.org/Subscribo/psr-http-message-tools)
 
-## providing following tools to be used with PSR-7 compliant classes:
+** Package Subscribo PsrHttpMessageTools is providing following tools to be used with PSR-7 compliant classes: **
 - Request Factory
 - Uri Factory
 - Response Parser
