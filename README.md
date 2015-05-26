@@ -1,7 +1,8 @@
 # Package Subscribo PsrHttpMessageTools
 
+Master branch (0.4) : [![Build Status](https://travis-ci.org/Subscribo/psr-http-message-tools.svg?branch=master)](https://travis-ci.org/Subscribo/psr-http-message-tools)
+
 Branch 0.3 : [![Build Status](https://travis-ci.org/Subscribo/psr-http-message-tools.svg?branch=0.3)](https://travis-ci.org/Subscribo/psr-http-message-tools)
-Branch 0.4 : [![Build Status](https://travis-ci.org/Subscribo/psr-http-message-tools.svg?branch=master)](https://travis-ci.org/Subscribo/psr-http-message-tools)
 
 **Package Subscribo PsrHttpMessageTools is providing following tools to be used with PSR-7 compliant classes:**
 - Request Factory
