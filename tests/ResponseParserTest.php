@@ -1,8 +1,8 @@
 <?php
 
 use Subscribo\PsrHttpMessageTools\Parsers\ResponseParser;
-use Phly\Http\Response;
-use Phly\Http\Stream;
+use Zend\Diactoros\Response;
+use Zend\Diactoros\Stream;
 
 class ResponseParserTest extends PHPUnit_Framework_TestCase
 {

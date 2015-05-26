@@ -1,7 +1,7 @@
 <?php namespace Subscribo\PsrHttpMessageTools\Factories;
 
 use Psr\Http\Message\UriInterface;
-use Phly\Http\Uri;
+use Zend\Diactoros\Uri;
 
 /**
  * Class UriFactory

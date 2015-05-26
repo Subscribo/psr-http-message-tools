@@ -3,8 +3,8 @@
 use InvalidArgumentException;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\UriInterface;
-use Phly\Http\Request;
-use Phly\Http\Stream;
+use Zend\Diactoros\Request;
+use Zend\Diactoros\Stream;
 use Subscribo\PsrHttpMessageTools\Factories\UriFactory;
 use Subscribo\PsrHttpMessageTools\Interfaces\DealingWithContentTypeInterface;
 

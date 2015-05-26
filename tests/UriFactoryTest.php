@@ -1,7 +1,7 @@
 <?php
 
 use Subscribo\PsrHttpMessageTools\Factories\UriFactory;
-use Phly\Http\Uri;
+use Zend\Diactoros\Uri;
 
 
 class UriFactoryTest extends PHPUnit_Framework_TestCase
