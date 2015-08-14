@@ -17,7 +17,7 @@
 Add dependency on this package to your composer.json:
 ```json
     "require": {
-        "subscribo/psr-http-message-tools": "^0.4.1"
+        "subscribo/psr-http-message-tools": "^0.4.3"
     }
 ```
 
